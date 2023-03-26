@@ -34,3 +34,10 @@
   ![Snake animation](https://github.com/rafael-cavalcante/rafael-cavalcante/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+<div align="center"> <br> <p align="center"> <b> Contagem de visitantes </b>  
+
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/{jeilsonb}/count.svg" /></p> 
+<br>
+
+</div>
